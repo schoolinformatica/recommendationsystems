@@ -7,19 +7,22 @@ namespace ConsoleApplication
     public static class KNearest
     {
 
-        public static Dictionary<int, double> GetNeighbours(Dictionary<int, GenericVector> points, int targetId, int k,
+        public static Dictionary<int, double> GetNeighbours(Matrix<float> points, int targetId, int k,
             double treshold, Func<GenericVector, GenericVector, double> similarity)
         {
             var lowest = treshold;
             var neighbours = new Dictionary<int, double>();
-            var target = points[targetId];
+            var target = new GenericVector(points[targetId]);
 
             foreach (var point in points)
             {
+//                Console.WriteLine($"point: {point.Key} with target {targetId}");
                 if(point.Key == targetId) continue;
 
-                var similar = similarity(point.Value, target);
-                if(!(similar > lowest && HasAdditionalItems(point.Value, target))) continue;
+                var vector = new GenericVector(point.Value);
+
+                var similar = similarity(vector, target);
+                if(!(similar > lowest && HasAdditionalItems(vector, target))) continue;
 
                 if (neighbours.Count >= k)
                 {
@@ -38,7 +41,6 @@ namespace ConsoleApplication
                 }
 
                 neighbours.Add(point.Key, similar);
-                Console.WriteLine("Length: " + neighbours.Count);
             }
 
             return neighbours;
