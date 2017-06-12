@@ -1,0 +1,8 @@
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/bin/Debug/Assignment2.exe
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/bin/Debug//Assignment2.pdb
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/bin/Debug/CsvReader.dll
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/bin/Debug/DynamicMatrix.dll
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/obj/Debug/Assignment2.csprojResolveAssemblyReference.cache
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/obj/Debug/Assignment2.csproj.CoreCompileInputs.cache
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/obj/Debug/Assignment2.exe
+/home/steven/RiderProjects/ConsoleApplication/Assignment2/obj/Debug/Assignment2.pdb

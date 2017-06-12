@@ -1,0 +1,7 @@
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/bin/Debug/Assignment1.exe
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/bin/Debug//Assignment1.pdb
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/bin/Debug/CsvReader.dll
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/obj/Debug/Assignment1.csprojResolveAssemblyReference.cache
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/obj/Debug/Assignment1.csproj.CoreCompileInputs.cache
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/obj/Debug/Assignment1.exe
+/home/steven/RiderProjects/ConsoleApplication/Assignment1/obj/Debug/Assignment1.pdb

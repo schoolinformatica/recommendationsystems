@@ -1,0 +1,8 @@
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Release/ConsoleApplication.exe
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Release/ConsoleApplication.pdb
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Release/CsvReader.dll
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Release/ConsoleApplication.csprojResolveAssemblyReference.cache
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Release/ConsoleApplication.csproj.CoreCompileInputs.cache
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Release/ConsoleApplication.exe
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/obj/Release/ConsoleApplication.pdb
+/home/steven/RiderProjects/ConsoleApplication/ConsoleApplication/bin/Release//ConsoleApplication.pdb
